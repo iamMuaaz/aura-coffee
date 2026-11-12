@@ -15,7 +15,7 @@ A modern, visually stunning, fully accessible single-page web experience for a p
 | **Participant Name** | Muaaz Ibrahim |
 | **Student ID** | FA26-BSCS-0109 |
 | **Institution** | Muhammad Ali Jinnah University (MAJU) |
-| **GitHub Repository** | `[PASTE YOUR PUBLIC GITHUB REPO URL HERE]` |
+| **GitHub Repository** | https://github.com/iamMuaaz/aura-coffee |
 | **Live Vercel Link** | `[PASTE YOUR VERCEL DEPLOYED URL HERE]` |
 | **Target Audience** | Specialty coffee enthusiasts, students, and young professionals seeking ethically sourced, small-batch roasted single-origin coffee |
 | **Primary User Task** | Browse curated roast collections, filter by roast level, and complete a simulated checkout order with real-time feedback |
