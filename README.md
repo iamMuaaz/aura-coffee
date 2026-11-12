@@ -12,8 +12,8 @@ A modern, visually stunning, fully accessible single-page web experience for a p
 | :--- | :--- |
 | **Project Brief** | **Brief #8 — Coffee Brand Website** |
 | **Participation Type** | **Solo Participant** |
-| **Participant Name** | `[ENTER YOUR FULL NAME HERE]` |
-| **Student ID** | `[ENTER YOUR STUDENT ID HERE]` |
+| **Participant Name** | Muaaz Ibrahim |
+| **Student ID** | FA26-BSCS-0109 |
 | **Institution** | Muhammad Ali Jinnah University (MAJU) |
 | **GitHub Repository** | `[PASTE YOUR PUBLIC GITHUB REPO URL HERE]` |
 | **Live Vercel Link** | `[PASTE YOUR VERCEL DEPLOYED URL HERE]` |
